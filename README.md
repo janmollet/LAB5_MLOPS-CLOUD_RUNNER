@@ -18,8 +18,8 @@ For this lab, I used Google Cloud Run and Docker to build and deploy a basic web
     - Styled layouts (CSS)
     - Buttons for navigation
     - Emojis and visual elements
-    -     - Better overall presentation
-    - 
+    - Better overall presentation
+  
 🌐 Endpoints
 The application includes three main routes:
 /query --> Retrieves and displays data using BigQuery
